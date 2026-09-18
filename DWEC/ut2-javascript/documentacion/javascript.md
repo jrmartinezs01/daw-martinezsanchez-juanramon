@@ -7,7 +7,7 @@ Permite almacenar una coleccion de datos a los que permite acceder de forma alea
 
 Estos ejemplos van a ser creado a base de frutas 
 
-Poner siempre *use strict*;
+Poner siempre **use strict**;
 
 
 | Método | Descripción                      |
@@ -32,6 +32,16 @@ Poner siempre *use strict*;
 | let condicionAll = frutas.every(f => f.length > 5); | Comprobar si todos tiene la condición |
 
 
+----------------------------------------------------------
+## Set
 
+Puede almacenar valores únicos de cualquier tipo y itera a traves de los elementos de un conjunto en orden de inserción
 
-## 
+### Métodos
+
+Este ejemplos va a ser con Integer y String 
+
+| Métodos | Descripción |
+|---------|--------------------|
+|         |                    |
+|         |                    |
