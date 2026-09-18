@@ -20,7 +20,7 @@ Estos ejemplos van a ser creado a base de frutas
 | let elementoEliminado = frutas.splice(pos, 1);      | Eliminar elementos segun su posición |
 | console.log(arr[0]); | Obtener el valor almacenado en una posición |
 | console.log(arr[arr.length - 1]); | Obtener el valor almacenado en la última posición |
-|        | Ordenar un array                 |
-|        | Buscar un elemento que pasa la prueba
+| frutas.sort();     | Ordenar un array  |
+|        | Buscar un elemento que pasa la prueba 
 |        | Comprobar si contiene un elemento |
 |        | Obtener un array con todos los elementos que cumplan una condición |
