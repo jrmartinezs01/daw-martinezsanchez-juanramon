@@ -36,7 +36,7 @@ let numAciertos = [];
         }
     }
 
-// Sale por consola los resultados
+// Sale por consola los resultados y los numeros que ha metido
 
 console.log("Números generados: " + numerosGenerado.join(", "));
 console.log("Número de aciertos: " + aciertos);
